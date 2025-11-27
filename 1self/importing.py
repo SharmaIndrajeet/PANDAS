@@ -35,3 +35,10 @@ def getNme():
 
 tallPoky = df[df["Legendry"] == True] 
 print (tallPoky)
+
+print ("     hhhhh")
+
+hero = df [(df["Type2"] ==  "Flying") &
+           (df["Type1"] == "Fire") ]
+
+print (hero)
