@@ -9,4 +9,5 @@ print (group["Height"].sum())
 #print (group["Height"].sum())
 
 
-#we can perform all activity all agrigate for a single gropu
+#we can perform all activity all agrigate for a single group
+

@@ -1,6 +1,5 @@
 import pandas as pd    
 
-
 """
 ---->  data cleaning is a process of fixing / removing incompleate , incorrect data ~75% of work
 of pandas is with data cleaning

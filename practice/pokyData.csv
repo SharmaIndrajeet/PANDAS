@@ -1,5 +1,7 @@
 No.,Name,Type1,Type2,Height,Weight,Legendry
 1,Bulbasaur,Grass,Poison,0.7,6.9,FALSE
+1,Bulbasaur,Grass,Poison,0.7,6.9,FALSE
+1,Bulbasaur,Grass,Poison,0.7,6.9,FALSE
 2,Ivysaur,Grass,Poison,1.0,13.0,FALSE
 3,Venusaur,Grass,Poison,2.0,100.0,FALSE
 4,Charmander,Fire,None,0.6,8.5,FALSE
